@@ -1,0 +1,1 @@
+These are just to show python knowledge and are not intended to be copied off of. There may or may not be errors.
